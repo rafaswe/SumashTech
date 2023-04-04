@@ -1,0 +1,167 @@
+.textColor{
+    color: #F16A4F;
+}
+.navLink{
+    border-right: 2px solid gray;
+}
+.bgColor{
+    background-color: #F16A4F;
+}
+.boldWord{
+    font-weight: bolder;
+    color: #118B91;
+}
+.titleName{
+    font-size: x-large;
+    font-size: x-large;
+}
+.backGround{
+    background-color: #D4D4D4;
+}
+.navText{
+    transition: 0.4s;
+}
+.navText:hover{
+    color: #F16A4F;
+    transform: scale(1.03);
+}
+.icon{
+    background-color: #404956;
+    border-radius: 50%;
+}
+
+
+
+/* ................ Lower Background............ */
+.LNBackground{
+    background-color: #404956;
+}
+.LNListItem{
+    transition: 0.4s;
+}
+.LNListItem:hover{
+    background-color: #F16A4F;
+}
+
+
+
+/*..............Single Product Page header.............*/
+.SPLinks{
+    text-decoration: none;
+}
+.SPIcons{
+    padding: 0px 4px 4px 4px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+/*..............Single Product.............*/
+
+.imgBorder{
+    border: 2px solid rgb(224, 221, 221);
+    border-radius: 10%;
+}
+.btn-color{
+    background-color: #F16A4F;
+    color: white;
+    transition: 0.4s;
+}
+.btn-color:hover{
+    background-color: #f14f2f;
+}
+.coloredButton{
+    width: 28px;
+    height: 28px; 
+}
+.coloredButton1{
+    background-color: #118B91;
+    transition: 1s;
+}
+.coloredButton1:hover{
+    background-color: #228f95;
+}
+.coloredButton2{
+    background-color: #F16A4F;
+    transition: 1s;
+}
+.coloredButton2:hover{
+    background-color: #ea745c;
+}
+.coloredButton3{
+    background-color: #404956;
+    
+}
+.coloredButton3:hover{
+    background-color: #576477;
+}
+
+
+/* ......................card section ................ */
+.cardBg{
+    background-color: #F4F4F4;
+    border-radius: 5%;
+}
+.cardBorder{
+    border-bottom: 1px solid #404956;
+}
+.cardTextColor{
+    color: #404956;
+}
+
+/* ....................Lower button segmentation..................... */
+.inputText{
+    font-size: large;
+}
+.buttons{
+    background-color: #656262;
+    color: white;
+    transition-duration: 0.4s;
+}
+.buttons:hover{
+    background-color: #F16A4F
+}
+/* ..................... Custom Carousel ....................  */
+.optionStyle{
+    color: #404956;
+    text-decoration: none;
+}
+.optionStyle:hover{
+    color: #404956;
+    text-decoration: none;
+}
+.optionBorderStyle1{
+    border-bottom: 0;
+    font-size: large;
+    transition-duration: 0.4s;
+}
+.optionBorderStyle1:hover{
+    border-bottom: 3px solid #F16A4F;
+    font-weight: bold;
+}
+.optionBorderStyle2{
+    border-bottom: 0;
+    font-size: large;
+    transition-duration: 0.4s;
+}
+.optionBorderStyle2:hover{
+    border-bottom: 3px solid #F16A4F;
+    font-weight: bold;
+}
+.optionBorderStyle3{
+    border-bottom: 0;
+    font-size: large;
+    transition-duration: 0.4s;
+}
+.optionBorderStyle3:hover{
+    border-bottom: 3px solid #F16A4F;
+    font-weight: bold;
+}
+.optionBorderStyle4{
+    border-bottom: 0;
+    font-size: large;
+    transition-duration: 0.4s;
+}
+.optionBorderStyle4:hover{
+    border-bottom: 3px solid #F16A4F;
+    font-weight: bold;
+}
